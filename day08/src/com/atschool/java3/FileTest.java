@@ -44,5 +44,8 @@ public class FileTest {
         //构造器4
         File file4 = new File("file3","he.txt");
         System.out.println(file4);
+
+        //测试git
+        System.out.println("Hello Git!");
     }
 }
