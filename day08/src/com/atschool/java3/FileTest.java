@@ -46,6 +46,8 @@ public class FileTest {
         System.out.println(file4);
 
         //测试git
-        System.out.println("Hello Git!");
+        System.out.println("Hello Git1!");
+        System.out.println("Hello Git2!");
+        System.out.println("Hello Git3!");
     }
 }
