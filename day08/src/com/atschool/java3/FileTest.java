@@ -54,5 +54,6 @@ public class FileTest {
         System.out.println("master test!");
         System.out.println("master test!");
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
